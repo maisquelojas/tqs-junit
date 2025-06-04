@@ -38,6 +38,7 @@ public class CalculadoraDeNotas {
                     + NOTA_MAXIMA_VALIDA + ".");
         }
         // Consideramos que a média já foi validada pelo método calcularMedia
-        return mediaCalculada >= notaDeCorte;
+        // return mediaCalculada >= notaDeCorte;
+        return mediaCalculada <= notaDeCorte; // Invertendo a lógica para falhar o teste
     }
 }
