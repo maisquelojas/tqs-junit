@@ -1,8 +1,6 @@
-.gradle/
-gradle/
-gradlew*
-bin/
-build/
-.vscode/
-.idea/
+*gradle*
+bin
+build
+.vscode
+.idea
 .DS_Store
