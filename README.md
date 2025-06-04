@@ -4,8 +4,6 @@
 
 **Roteiro da Apresentação (Foco Prático)**
 
-**(Início Imediato - Sem Slide de Capa)**
-
 **Slide 1: Testes Unitários e JUnit: Uma Visão Rápida (Teoria - ~3 minutos)**
 
 *   **Título do Slide:** Testes Unitários e JUnit: Por Que e Como?
